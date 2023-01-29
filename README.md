@@ -1,3 +1,3 @@
-# Tutorials | Tensorflow | Keras |Image classification
-Image classification basics 
+# Tutorials | TensorFlow | Keras
+Image classification basics with Keras, TensorFlow
 
